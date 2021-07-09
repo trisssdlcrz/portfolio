@@ -65,7 +65,8 @@ body {
 }
 .image {
 	width: 80%;
-	border-radius: 50%
+	border-radius: 50%;
+	padding-left: 5px;
 }
 .sk-co {
 	margin-top: 5rem;
